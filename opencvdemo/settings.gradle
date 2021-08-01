@@ -1,0 +1,4 @@
+//def opencvsdk='<path_to_opencv_android_sdk_rootdir>'
+rootProject.name = "opencvdemo"
+include ':app'
+include ':sdk'
